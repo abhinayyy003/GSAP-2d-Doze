@@ -1,3 +1,9 @@
+# Output
+
+https://github.com/user-attachments/assets/20d98c5c-5bd6-4b08-9c8f-7178ec95b7ed
+
+***
+
 # Video Frame Extractor
 
 A simple but powerful bash script that uses **FFmpeg** to extract every frame from a video file and save them as sequentially numbered images (e.g., `frame_0001.png`, `frame_0002.png`, etc.).
